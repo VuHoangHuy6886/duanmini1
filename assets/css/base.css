@@ -1,0 +1,10 @@
+:root {
+    --color-one: #8261EE;
+    --color-two: #FF589E;
+
+    --color-text: #1e1e1e;
+}
+body{
+    color: var(--color-text);
+    line-height: 1.6;
+}
